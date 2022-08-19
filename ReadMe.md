@@ -6,4 +6,6 @@ How I created this repository is [described here](https://www.marcusoft.net)
 
 ## Deploy
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/marcusoftnet/WebAPIExercises/main/azuredeploy.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fmarcusoftnet%2FWebAPIExercises%2Fmain%2Fazuredeploy.json)
+
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fmarcusoftnet%2FWebAPIExercises%2Fmain%2Fazuredeploy.json)
